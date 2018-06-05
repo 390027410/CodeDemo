@@ -20,6 +20,7 @@
 		14D9F8281CA4180700ABCB10 /* cycle_image6.png in Resources */ = {isa = PBXBuildFile; fileRef = 14D9F8251CA4180700ABCB10 /* cycle_image6.png */; };
 		14D9F8291CA4180700ABCB10 /* cycle_image5.png in Resources */ = {isa = PBXBuildFile; fileRef = 14D9F8261CA4180700ABCB10 /* cycle_image5.png */; };
 		14D9F82A1CA4180700ABCB10 /* cycle_image4.png in Resources */ = {isa = PBXBuildFile; fileRef = 14D9F8271CA4180700ABCB10 /* cycle_image4.png */; };
+		2BEA476220C6784C00CF23F2 /* ppppppViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BEA476120C6784C00CF23F2 /* ppppppViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,8 @@
 		14D9F8251CA4180700ABCB10 /* cycle_image6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cycle_image6.png; sourceTree = "<group>"; };
 		14D9F8261CA4180700ABCB10 /* cycle_image5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cycle_image5.png; sourceTree = "<group>"; };
 		14D9F8271CA4180700ABCB10 /* cycle_image4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cycle_image4.png; sourceTree = "<group>"; };
+		2BEA476020C6784C00CF23F2 /* ppppppViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ppppppViewController.h; sourceTree = "<group>"; };
+		2BEA476120C6784C00CF23F2 /* ppppppViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ppppppViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +87,8 @@
 				14D9F8071CA40DDD00ABCB10 /* AppDelegate.m */,
 				14D9F8091CA40DDD00ABCB10 /* ViewController.h */,
 				14D9F80A1CA40DDD00ABCB10 /* ViewController.m */,
+				2BEA476020C6784C00CF23F2 /* ppppppViewController.h */,
+				2BEA476120C6784C00CF23F2 /* ppppppViewController.m */,
 				14D9F80C1CA40DDD00ABCB10 /* Main.storyboard */,
 				14D9F80F1CA40DDD00ABCB10 /* Assets.xcassets */,
 				14D9F8111CA40DDD00ABCB10 /* LaunchScreen.storyboard */,
@@ -192,6 +197,7 @@
 				14D9F8081CA40DDD00ABCB10 /* AppDelegate.m in Sources */,
 				14D9F81E1CA40F1300ABCB10 /* CCCycleScrollView.m in Sources */,
 				14D9F8051CA40DDD00ABCB10 /* main.m in Sources */,
+				2BEA476220C6784C00CF23F2 /* ppppppViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
